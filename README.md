@@ -86,6 +86,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Vanilla JS Github-Profiles]([https://gorkem1986.github.io/Github-Profiles/](https://gorkem1986.github.io/Github-Profiles/)) <h3>[Repo](https://github.com/GORKEM1986/Github-Profiles)</h3> | Vanilla JS, PureCSS |![Github-Profiles](https://github.com/GORKEM1986/Github-Profiles/blob/main/profile.gif)
 [Vanilla JS weather-App3]([https://gorkem1986.github.io/weather-App3/](https://gorkem1986.github.io/weather-App3/)) <h3>[Repo](https://github.com/GORKEM1986/weather-App3)</h3> | Vanilla JS, PureCSS |![weather-App3](https://github.com/GORKEM1986/weather-App3/blob/main/weather.gif)
 [Vanilla JS income-expense-tracking]([https://gorkem1986.github.io/income-expense-tracking/](https://gorkem1986.github.io/income-expense-tracking/)) <h3>[Repo](https://github.com/GORKEM1986/income-expense-tracking)</h3> | Vanilla JS, PureCSS |![income-expense-tracking](https://github.com/GORKEM1986/income-expense-tracking/blob/main/expense.gif)
+[Vanilla JS todo-Lists-2](https://gorkem1986.github.io/todo-Lists-2/) <h3>[Repo](https://github.com/GORKEM1986/todo-Lists-2)</h3> | Vanilla JS, PureCSS |![todo-Lists-2](https://github.com/GORKEM1986/todo-Lists-2/blob/main/todo%20lists%202.gif)
 
 
 
