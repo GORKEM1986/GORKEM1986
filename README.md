@@ -84,6 +84,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Shopping-Cart](https://gorkem1986.github.io/Shopping-Cart/) <h3>[Repo](https://github.com/GORKEM1986/Shopping-Cart)</h3> | Vanilla JS, PureCSS |![Shopping-Cart](https://github.com/GORKEM1986/Shopping-Cart/blob/main/Shopping%20Cart.gif)
 [Vanilla JS Github-Profiles]([https://gorkem1986.github.io/Github-Profiles/](https://gorkem1986.github.io/Github-Profiles/)) <h3>[Repo](https://github.com/GORKEM1986/Github-Profiles)</h3> | Vanilla JS, PureCSS |![Github-Profiles](https://github.com/GORKEM1986/Github-Profiles/blob/main/profile.gif)
+[Vanilla JS weather-App3]([https://gorkem1986.github.io/weather-App3/](https://gorkem1986.github.io/weather-App3/)) <h3>[Repo](https://github.com/GORKEM1986/weather-App3)</h3> | Vanilla JS, PureCSS |![weather-App3](https://github.com/GORKEM1986/weather-App3/blob/main/weather.gif)
 
 
 
