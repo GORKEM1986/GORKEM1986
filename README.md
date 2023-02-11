@@ -84,7 +84,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/GORKEM1986/Shopping-Cart)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 [Vanilla JS Shopping-Cart](https://gorkem1986.github.io/Shopping-Cart/) <h3>[Repo](https://github.com/GORKEM1986/Shopping-Cart)</h3> | Vanilla JS, PureCSS |![Shopping-Cart](https://github.com/GORKEM1986/Shopping-Cart/blob/main/Shopping%20Cart.gif)
-[Vanilla JS Shopping-Cart]([https://gorkem1986.github.io/Github-Profiles/](https://gorkem1986.github.io/Github-Profiles/)) <h3>[Repo](https://github.com/GORKEM1986/Github-Profiles)</h3> | Vanilla JS, PureCSS |![Github-Profiles](https://github.com/GORKEM1986/Github-Profiles/blob/main/profile.gif)
+[Vanilla JS Github-Profiles]([https://gorkem1986.github.io/Github-Profiles/](https://gorkem1986.github.io/Github-Profiles/)) <h3>[Repo](https://github.com/GORKEM1986/Github-Profiles)</h3> | Vanilla JS, PureCSS |![Github-Profiles](https://github.com/GORKEM1986/Github-Profiles/blob/main/profile.gif)
 
 
 
