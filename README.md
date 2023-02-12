@@ -88,6 +88,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Vanilla JS income-expense-tracking]([https://gorkem1986.github.io/income-expense-tracking/](https://gorkem1986.github.io/income-expense-tracking/)) <h3>[Repo](https://github.com/GORKEM1986/income-expense-tracking)</h3> | Vanilla JS, PureCSS |![income-expense-tracking](https://github.com/GORKEM1986/income-expense-tracking/blob/main/expense.gif)
 [Vanilla JS todo-Lists-2](https://gorkem1986.github.io/todo-Lists-2/) <h3>[Repo](https://github.com/GORKEM1986/todo-Lists-2)</h3> | HTML,Vanilla JS, PureCSS |![todo-Lists-2](https://github.com/GORKEM1986/todo-Lists-2/blob/main/todo%20lists%202.gif)
 [Vanilla JS Bootsrap5-proje2](https://gorkem1986.github.io/Bootsrap5-proje2/) <h3>[Repo](https://github.com/GORKEM1986/Bootsrap5-proje2)</h3> |HTML5, PureCSS |![Bootsrap5-proje2](https://github.com/GORKEM1986/Bootsrap5-proje2/blob/main/boostrap.gif)
+[Vanilla JS Parallax-2](https://gorkem1986.github.io/Parallax-2/) <h3>[Repo](https://github.com/GORKEM1986/Parallax-2)</h3> | HTML,Vanilla JS, PureCSS |![Parallax-2](https://github.com/GORKEM1986/Parallax-2/blob/main/parallax.gif)
 
 
 
